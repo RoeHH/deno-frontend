@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "deno run --no-check -A --watch main.ts",
+    "manifest": "fresh manifest"
+  }
+}
